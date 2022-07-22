@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: The pages main title
+title: The pages maine title
 image: /img/home-jumbotron.jpg
 heading: Welcome to the page
 subheading: This is the subheading
